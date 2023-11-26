@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "Name": "Baked Lemon Pepper Wings",
+    "Ingredients": [
+      {
+        "Name": "Party Chicken Wings",
+        "Measurement": "6-8 wings"
+      },
+      {
+        "Name": "Garlic Salt",
+        "Measurement": "2 tsp",
+        "Note": "Fresh ones!"
+      },
+      {
+        "Name": "Lemon Pepper",
+        "Measurement": "1 tsp"
+      },
+      {
+        "Name": "Olive Oil",
+        "Measurement": "1 tbsp"
+      }
+    ],
+    "Steps": ["Place wings in bowl", "Add oil to wings and mix", "Add garlic salt and mix",
+      "Add lemon pepper and mix", "Bake wings for 40 minutes at 400 degrees",
+      "Flip wings at 20 minutes"],
+    "CookTime": "40 min",
+    "PrepTime": "10 min",
+    "Difficulty": "Easy",
+    "Protein": "Chicken",
+    "URL": "https://natashaskitchen.com/air-fryer-chicken-wings/",
+    "From": "natashaskitchen.com",
+    "Image": "/Lemon-Pepper-Wings-SpendWithPennies-13.jpg"
+
+  },
+  {
+    "id": 2,
+    "Name": "Chili",
+    "Ingredients": [
+      {
+        "Name": "Party Chicken Wings",
+        "Measurement": "6-8 wings"
+      },
+      {
+        "Name": "Garlic Salt",
+        "Measurement": "2 tsp",
+        "Note": "Fresh ones!"
+      },
+      {
+        "Name": "Lemon Pepper",
+        "Measurement": "1 tsp"
+      },
+      {
+        "Name": "Olive Oil",
+        "Measurement": "1 tbsp"
+      }
+    ],
+    "Steps": ["Place wings in bowl", "Add oil to wings", "Mix", "Add garlic salt", "Mix",
+      "Add lemon pepper", "Mix", "Bake wings for 40minutes at 400 degrees",
+      "Flip wings at 20 minutes"],
+    "Cook time": "40 min @ 400 degrees",
+    "Difficulty": "Easy",
+    "Protein": "Chicken",
+    "URL": "https://natashaskitchen.com/air-fryer-chicken-wings/",
+    "From": "natashaskitchen.com",
+    "Image": "/Lemon-Pepper-Wings-SpendWithPennies-13.jpg"
+  }
+]
